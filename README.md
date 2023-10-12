@@ -79,7 +79,7 @@ login("user", "pwd",key)
 ```
 
 ## **Output**
-![img](ss.PNG)
+![img](ss.png)
 
 **Sekian dari Saya Terima Kasih**
 
