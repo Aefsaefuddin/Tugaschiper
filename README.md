@@ -6,7 +6,7 @@ Nim     : 312110521
 Matkul  : Kriptografi
 ```
 ## **Soal**
-![img](screenshot/ss1.PNG)
+![img](ss1.png)
 
 Dibawah Ini adalah Syntax yang Saya Gunakan
 
@@ -79,7 +79,7 @@ login("user", "pwd",key)
 ```
 
 ## **Output**
-![img](screenshot/ss.PNG)
+![img](ss.PNG)
 
 **Sekian dari Saya Terima Kasih**
 
